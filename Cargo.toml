@@ -1,0 +1,20 @@
+[package]
+name = "netspectre"
+version = "0.1.0"
+edition = "2026"
+authors = "norct"
+license = "MIT OR Apache-2.0"
+
+[dependencies]
+# async runtime
+tokio = { version = "1.0", features = ["full"] }
+# http client
+reqwest = { version = "0.11", features = ["json"] }
+# html parser
+scraper = "0.13.0"
+url = "2.2.2"
+regex = "1.5.4"
+colored = "2.0.0"
+thiserror = "1.0.30"
+# async mutex
+dashmap = "5.2.0"
