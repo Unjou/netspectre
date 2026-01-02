@@ -81,6 +81,6 @@ This project is dual-licensed under:
 
 <div align="center">
 
-**Developed by [norct](https://github.com/Unjou) 👾** *Fullstack Web Developer | Game Localization Specialist | Pentester & Bug Hunter | Cyber Security Enthusiast*
+**Developed by [norct](https://github.com/Unjou) 👾** 
 
 </div>
