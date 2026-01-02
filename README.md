@@ -18,7 +18,7 @@
 
 **NetSpectre-RS** is an asynchronous web crawler built with the **Rust 2025 edition**. It utilizes a multi-threaded architecture to perform rapid domain mapping and metadata extraction. By leveraging `tokio` for its async runtime and `dashmap` for thread-safe state management, it can handle high-concurrency workloads without the overhead of traditional scrapers.
 
-### 🚀 Key Technical Features
+### 🚀 Key Features
 
 * **Multi-Threaded Crawling**: Uses an `Arc<Semaphore>` to manage and limit concurrent HTTP requests effectively.
 * **Asynchronous Engine**: Powered by the `tokio` 1.0 runtime for non-blocking I/O operations.
@@ -81,6 +81,6 @@ This project is dual-licensed under:
 
 <div align="center">
 
-**Developed by [Norct](https://github.com/Unjou) 👾**
+**Developed by [norct](https://github.com/Unjou) 👾** *Fullstack Web Developer | Game Localization Specialist | Pentester & Bug Hunter | Cyber Security Enthusiast*
 
 </div>
